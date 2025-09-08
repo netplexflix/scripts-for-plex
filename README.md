@@ -6,3 +6,6 @@ Run with `python noGenre.py`
 ### - ShutdownIfPlexInactive.ps1
 Chacks at a set time if someone is streaming from your Plex server.
 If not, shuts down your computer. If someone is streaming, tries again later.
+
+### - PVAC (Plex Vs ARRs Check)
+Cross-Checks Movies and TV Shows between Plex and Radarr/Sonarr
